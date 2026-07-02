@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Truck, Leaf, Clock, ShieldCheck, Star, TrendingUp, ArrowRight } from "lucide-react";
+import { Truck, Star, TrendingUp, ArrowRight } from "lucide-react";
 import { useCart } from "../context/CartContext";
 import { dummyProducts, categoriesData, heroSectionData } from "../assets/assets";
 import type { Product } from "../types";
