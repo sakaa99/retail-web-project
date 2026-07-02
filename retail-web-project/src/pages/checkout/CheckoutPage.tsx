@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { MapPin, CreditCard, ChevronDown, Check } from "lucide-react";
+import { MapPin, CreditCard } from "lucide-react";
 import { useCart } from "../../context/CartContext";
 import { dummyAddressData } from "../../assets/assets";
 
